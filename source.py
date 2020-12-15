@@ -49,9 +49,10 @@ print("Total cost=", cost,'$')
 offer=cost+(cost*overhead+cost*profit+cost*bonding)
 print("Offer =",offer,'$')
 
-
-# In[35]:
-
+# Here is a test class
+cost Testclass:
+  def __init__(self, number):
+        self.number = number
 
 #the end
 
