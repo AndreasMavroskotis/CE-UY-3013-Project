@@ -38,7 +38,7 @@ bonding=0.01
 # In[34]:
 
 
-#Model calculating the total cost of a high quality office of 30000srqft with 10 floors
+#Model calculating the total cost of a high quality office of 30000sqft with 10 floors
 #Sqft we can chnage these every time we calculate
 X=30000
 #floors we can chnage these every time we calculate
