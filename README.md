@@ -23,10 +23,22 @@ After collecting the Data an OLS linear regression was utilised in order to exam
 **Data Collection **
 
 For the Data input this website was used : https://www.buildingjournal.com/construction-estimating.html
+
+**Input**
+
 The final data input was an xls file consisting of **50** rows and **6** columns
+
+**Output**
+Descriptive summary statistical values of the OLS regression where generated. This includes p-values of the features from which significance testing can be conducted
+
+Additionally a plot of price agianst square footage was also generated to show that the two variables correlated positively.This info can be found at the **output.png files**
 
 **Results**
 
 The P-values of the regression where found to be very large  (apart from the values before bonding,profit) immplying insignificance.
 
 However some useful extrapolations were established. One example that was visualized was that Total offer increased with Square footage.
+
+**Output**
+![](output1.png)
+
