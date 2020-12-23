@@ -55,10 +55,20 @@ sns.regplot(x="sqft (Area)", y="Values (total offer)",data=df)
 #as we can logically infer total offer increases with square footage
 
 
-# In[56]:
-
-
+#Test file
+class versions:
+  def_init_(self,Data_for_computing.xls,version) :
+      
+def main():      
+  
 print(pd.__version__)
 print(np.__version__)
 print(sns.__version__)
+
+version=("pandas,numpy or seaborn")
+
+version=Versions("Data_for_computing.xls",version)
+
+
+main()
 
